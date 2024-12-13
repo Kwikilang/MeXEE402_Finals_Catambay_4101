@@ -22,7 +22,7 @@ Step 1: Image Input
 • Load the input image that requires face and eye blurring.
 
 Step 2: Face Detection
-• Use a face detection algorithm (such as Haar Cascade or a deep learning-based model) to identify the position of the face(s) in the image.
+• Use a face detection algorithm (such as Haar Cascade) to identify the position of the face(s) in the image.
 
 Step 3: Eye Detection
 • Apply a similar face detection model to locate and segment the eyes within the detected face region.
@@ -50,6 +50,7 @@ The project successfully demonstrated the effectiveness of image blurring techni
 1. Code:
 
 •Python code using OpenCV for face and eye detection.
+•Haar Cascade model for classifying face and eyes detection.
 •Gaussian and Median blur implementation.
 
 2. Images:
