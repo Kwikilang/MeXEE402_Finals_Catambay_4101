@@ -1,0 +1,5 @@
+numpy
+matplotlib
+!pip install opencv-python
+haarcascade_eye.xml
+
