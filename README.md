@@ -1,5 +1,7 @@
 # MeXEE402_Finals_Catambay_4101
 
+# APPLYING IMAGE BLURRING TECHNIQUES TO DETECT FACE, AN EYE BLUR, IN IMAGE
+
 # PROBLEM STATEMENT
 
 As the use of facial recognition technology and image processing grows, ensuring privacy in digital images has become a significant concern. One of the key challenges in protecting individuals' identities is to effectively obscure sensitive facial features, such as the face and eyes, without compromising the quality of the rest of the image. The problem lies in applying image blurring techniques that can successfully detect and blur these facial features (face and eyes) while maintaining the integrity of the surrounding elements in the image. This project aims to develop an efficient system that detects faces and eyes in images and applies appropriate blurring techniques to anonymize these features, thus protecting privacy while ensuring the surrounding context remains intact.
